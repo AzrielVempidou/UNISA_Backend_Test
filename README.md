@@ -2,6 +2,8 @@
 
 UNISA Server adalah aplikasi backend untuk manajemen data dengan API untuk registrasi pengguna, login, dan operasi CRUD pada entitas `ListTautan` dan `DataLeads`. Aplikasi ini menggunakan MongoDB sebagai database dan JWT untuk autentikasi.
 
+## ERD
+![release-0](ERD.png)
 ## Table of Contents
 
 - [Setup](#setup)
