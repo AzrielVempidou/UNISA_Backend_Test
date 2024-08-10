@@ -1,0 +1,122 @@
+[
+    {
+        "ID": "64c72b4f597dbd6c840e6fd1",
+        "NamaProgram": "Pelatihan Manajemen Proyek",
+        "NamaInstansi": "PT ABC",
+        "NamaKegiatan": "Workshop Agile",
+        "Alamat": "Jl. Sudirman No. 23, Jakarta",
+        "NamaPIC": "Budi Santoso",
+        "NamaPICPTInstansi": "Rina Wulandari",
+        "TanggalMulai": "2024-08-01",
+        "TanggalAkhir": "2024-08-03",
+        "QRCodePath": "/path/to/qr_code1.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fd2",
+        "NamaProgram": "Seminar Teknologi",
+        "NamaInstansi": "Universitas XYZ",
+        "NamaKegiatan": "Future Tech 2024",
+        "Alamat": "Jl. Diponegoro No. 45, Bandung",
+        "NamaPIC": "Ahmad Fauzi",
+        "NamaPICPTInstansi": "Nina Kurnia",
+        "TanggalMulai": "2024-09-10",
+        "TanggalAkhir": "2024-09-12",
+        "QRCodePath": "/path/to/qr_code2.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fd3",
+        "NamaProgram": "Lokakarya Penulisan",
+        "NamaInstansi": "Pusat Bahasa",
+        "NamaKegiatan": "Penulisan Kreatif",
+        "Alamat": "Jl. Merdeka No. 17, Yogyakarta",
+        "NamaPIC": "Sri Lestari",
+        "NamaPICPTInstansi": "Ayu Pramesti",
+        "TanggalMulai": "2024-07-20",
+        "TanggalAkhir": "2024-07-22",
+        "QRCodePath": "/path/to/qr_code3.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fd4",
+        "NamaProgram": "Konferensi Pendidikan",
+        "NamaInstansi": "Kementerian Pendidikan",
+        "NamaKegiatan": "Edu Conference 2024",
+        "Alamat": "Jl. Kartini No. 10, Surabaya",
+        "NamaPIC": "Agus Salim",
+        "NamaPICPTInstansi": "Dewi Sartika",
+        "TanggalMulai": "2024-10-15",
+        "TanggalAkhir": "2024-10-17",
+        "QRCodePath": "/path/to/qr_code4.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fd5",
+        "NamaProgram": "Pelatihan Kepemimpinan",
+        "NamaInstansi": "PT Sejahtera",
+        "NamaKegiatan": "Leadership Training",
+        "Alamat": "Jl. Pahlawan No. 5, Medan",
+        "NamaPIC": "Dedi Kusuma",
+        "NamaPICPTInstansi": "Wulan Anggraini",
+        "TanggalMulai": "2024-11-05",
+        "TanggalAkhir": "2024-11-07",
+        "QRCodePath": "/path/to/qr_code5.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fd6",
+        "NamaProgram": "Seminar Kesehatan",
+        "NamaInstansi": "Rumah Sakit Harapan",
+        "NamaKegiatan": "Health Awareness 2024",
+        "Alamat": "Jl. Gatot Subroto No. 9, Semarang",
+        "NamaPIC": "Eko Wahyudi",
+        "NamaPICPTInstansi": "Siti Nurhaliza",
+        "TanggalMulai": "2024-08-25",
+        "TanggalAkhir": "2024-08-27",
+        "QRCodePath": "/path/to/qr_code6.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fd7",
+        "NamaProgram": "Pelatihan Digital Marketing",
+        "NamaInstansi": "Digital Academy",
+        "NamaKegiatan": "Marketing 4.0",
+        "Alamat": "Jl. Pemuda No. 33, Denpasar",
+        "NamaPIC": "Andi Wijaya",
+        "NamaPICPTInstansi": "Rika Hartanto",
+        "TanggalMulai": "2024-09-18",
+        "TanggalAkhir": "2024-09-20",
+        "QRCodePath": "/path/to/qr_code7.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fd8",
+        "NamaProgram": "Workshop Keamanan Siber",
+        "NamaInstansi": "Cyber Security Indonesia",
+        "NamaKegiatan": "Cyber Security Training",
+        "Alamat": "Jl. Thamrin No. 1, Jakarta",
+        "NamaPIC": "Asep Rahman",
+        "NamaPICPTInstansi": "Dian Nurjanah",
+        "TanggalMulai": "2024-12-02",
+        "TanggalAkhir": "2024-12-04",
+        "QRCodePath": "/path/to/qr_code8.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fd9",
+        "NamaProgram": "Lokakarya Bahasa Asing",
+        "NamaInstansi": "Lembaga Bahasa Internasional",
+        "NamaKegiatan": "Language Workshop",
+        "Alamat": "Jl. Kebon Sirih No. 25, Jakarta",
+        "NamaPIC": "Anita Sari",
+        "NamaPICPTInstansi": "Samsul Arifin",
+        "TanggalMulai": "2024-11-10",
+        "TanggalAkhir": "2024-11-12",
+        "QRCodePath": "/path/to/qr_code9.png"
+    },
+    {
+        "ID": "64c72b4f597dbd6c840e6fda",
+        "NamaProgram": "Pelatihan Data Science",
+        "NamaInstansi": "Big Data Institute",
+        "NamaKegiatan": "Data Science Bootcamp",
+        "Alamat": "Jl. Gajah Mada No. 12, Malang",
+        "NamaPIC": "Farid Ramadhan",
+        "NamaPICPTInstansi": "Ari Wibowo",
+        "TanggalMulai": "2024-07-05",
+        "TanggalAkhir": "2024-07-07",
+        "QRCodePath": "/path/to/qr_code10.png"
+    }
+]

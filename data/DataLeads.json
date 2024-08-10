@@ -1,0 +1,112 @@
+[
+  {
+      "ID": "64c72b4f597dbd6c840e6fe1",
+      "NamaLengkap": "Andi Saputra",
+      "Alamat": "Jl. Merdeka No. 45, Jakarta",
+      "TempatLahir": "Jakarta",
+      "TanggalLahir": "1990-05-17",
+      "Email": "andi.saputra@example.com",
+      "NoHp": "081234567890",
+      "NamaPTInstansi": "PT Angkasa Jaya",
+      "Jabatan": "Manager Marketing"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fe2",
+      "NamaLengkap": "Siti Aminah",
+      "Alamat": "Jl. Pahlawan No. 12, Bandung",
+      "TempatLahir": "Bandung",
+      "TanggalLahir": "1985-10-22",
+      "Email": "siti.aminah@example.com",
+      "NoHp": "082345678901",
+      "NamaPTInstansi": "Universitas Nusantara",
+      "Jabatan": "Dosen"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fe3",
+      "NamaLengkap": "Budi Santoso",
+      "Alamat": "Jl. Gatot Subroto No. 19, Semarang",
+      "TempatLahir": "Semarang",
+      "TanggalLahir": "1978-07-15",
+      "Email": "budi.santoso@example.com",
+      "NoHp": "083456789012",
+      "NamaPTInstansi": "PT Sumber Sejahtera",
+      "Jabatan": "Direktur Operasional"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fe4",
+      "NamaLengkap": "Dewi Lestari",
+      "Alamat": "Jl. Pemuda No. 21, Surabaya",
+      "TempatLahir": "Surabaya",
+      "TanggalLahir": "1982-03-05",
+      "Email": "dewi.lestari@example.com",
+      "NoHp": "084567890123",
+      "NamaPTInstansi": "PT Citra Abadi",
+      "Jabatan": "HR Manager"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fe5",
+      "NamaLengkap": "Eko Prasetyo",
+      "Alamat": "Jl. Diponegoro No. 7, Yogyakarta",
+      "TempatLahir": "Yogyakarta",
+      "TanggalLahir": "1995-11-29",
+      "Email": "eko.prasetyo@example.com",
+      "NoHp": "085678901234",
+      "NamaPTInstansi": "Universitas Gadjah Mada",
+      "Jabatan": "Research Assistant"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fe6",
+      "NamaLengkap": "Rina Wulandari",
+      "Alamat": "Jl. Sudirman No. 32, Medan",
+      "TempatLahir": "Medan",
+      "TanggalLahir": "1988-02-14",
+      "Email": "rina.wulandari@example.com",
+      "NoHp": "086789012345",
+      "NamaPTInstansi": "PT Bumi Nusantara",
+      "Jabatan": "Project Manager"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fe7",
+      "NamaLengkap": "Agus Salim",
+      "Alamat": "Jl. Kartini No. 11, Malang",
+      "TempatLahir": "Malang",
+      "TanggalLahir": "1972-09-09",
+      "Email": "agus.salim@example.com",
+      "NoHp": "087890123456",
+      "NamaPTInstansi": "PT Maju Bersama",
+      "Jabatan": "CEO"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fe8",
+      "NamaLengkap": "Lina Kurniasih",
+      "Alamat": "Jl. Ahmad Yani No. 25, Makassar",
+      "TempatLahir": "Makassar",
+      "TanggalLahir": "1983-06-21",
+      "Email": "lina.kurniasih@example.com",
+      "NoHp": "088901234567",
+      "NamaPTInstansi": "PT Makmur Jaya",
+      "Jabatan": "Finance Manager"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fe9",
+      "NamaLengkap": "Ahmad Fauzi",
+      "Alamat": "Jl. Gajah Mada No. 3, Denpasar",
+      "TempatLahir": "Denpasar",
+      "TanggalLahir": "1992-12-03",
+      "Email": "ahmad.fauzi@example.com",
+      "NoHp": "089012345678",
+      "NamaPTInstansi": "Universitas Udayana",
+      "Jabatan": "Lecturer"
+  },
+  {
+      "ID": "64c72b4f597dbd6c840e6fea",
+      "NamaLengkap": "Samsul Arifin",
+      "Alamat": "Jl. Kebon Sirih No. 44, Jakarta",
+      "TempatLahir": "Jakarta",
+      "TanggalLahir": "1980-04-17",
+      "Email": "samsul.arifin@example.com",
+      "NoHp": "081098765432",
+      "NamaPTInstansi": "PT Adhi Karya",
+      "Jabatan": "Engineer"
+  }
+]
